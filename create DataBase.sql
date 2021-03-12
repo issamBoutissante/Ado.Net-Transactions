@@ -1,0 +1,1 @@
+create database GestionTransuse GestionTranscreate table Regions(RegionID int,RegionDescription varchar(250),)
